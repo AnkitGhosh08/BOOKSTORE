@@ -73,6 +73,13 @@ const CartBox = ({navigation}) => {
             </TouchableOpacity>
           ) : null}
         </View>
+        <TouchableOpacity
+          style={styles.placeOrder}
+          onPress={() => {
+            navigation.navigate('LinkingScreen');
+          }}>
+          <Text style={styles.orderText}>Linking Screen</Text>
+        </TouchableOpacity>
       </View>
     </View>
   );
