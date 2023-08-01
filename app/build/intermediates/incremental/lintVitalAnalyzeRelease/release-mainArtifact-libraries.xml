@@ -39,32 +39,6 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="D:\MY_PROJECT\BookStoreApp\android@@:react-native-masked-view_masked-view::release"
-      jars="D:\MY_PROJECT\BookStoreApp\node_modules\@react-native-masked-view\masked-view\android\build\.transforms\69d0f6de069ba09d5a3becd185250c62\transformed\out\jars\classes.jar;D:\MY_PROJECT\BookStoreApp\node_modules\@react-native-masked-view\masked-view\android\build\.transforms\69d0f6de069ba09d5a3becd185250c62\transformed\out\jars\libs\R.jar"
-      resolved="BookStoreApp:react-native-masked-view_masked-view:unspecified"
-      folder="D:\MY_PROJECT\BookStoreApp\node_modules\@react-native-masked-view\masked-view\android\build\.transforms\69d0f6de069ba09d5a3becd185250c62\transformed\out"
-      manifest="AndroidManifest.xml"
-      resFolder="res"
-      assetsFolder="assets"
-      lintJar="lint.jar"
-      publicResources="public.txt"
-      symbolFile="R.txt"
-      externalAnnotations="annotations.zip"
-      proguardRules="proguard.txt"/>
-  <library
-      name="D:\MY_PROJECT\BookStoreApp\android@@:react-native-gesture-handler::release"
-      jars="D:\MY_PROJECT\BookStoreApp\node_modules\react-native-gesture-handler\android\build\.transforms\dce441d6e9f073401c99bd89eac1a967\transformed\out\jars\classes.jar;D:\MY_PROJECT\BookStoreApp\node_modules\react-native-gesture-handler\android\build\.transforms\dce441d6e9f073401c99bd89eac1a967\transformed\out\jars\libs\R.jar"
-      resolved="BookStoreApp:react-native-gesture-handler:unspecified"
-      folder="D:\MY_PROJECT\BookStoreApp\node_modules\react-native-gesture-handler\android\build\.transforms\dce441d6e9f073401c99bd89eac1a967\transformed\out"
-      manifest="AndroidManifest.xml"
-      resFolder="res"
-      assetsFolder="assets"
-      lintJar="lint.jar"
-      publicResources="public.txt"
-      symbolFile="R.txt"
-      externalAnnotations="annotations.zip"
-      proguardRules="proguard.txt"/>
-  <library
       name="D:\MY_PROJECT\BookStoreApp\android@@:react-native-safe-area-context::release"
       jars="D:\MY_PROJECT\BookStoreApp\node_modules\react-native-safe-area-context\android\build\.transforms\ec26724ed7f9b5a5d0bf1024dd718ff3\transformed\out\jars\classes.jar;D:\MY_PROJECT\BookStoreApp\node_modules\react-native-safe-area-context\android\build\.transforms\ec26724ed7f9b5a5d0bf1024dd718ff3\transformed\out\jars\libs\R.jar"
       resolved="BookStoreApp:react-native-safe-area-context:unspecified"
@@ -791,10 +765,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.core:core-ktx:1.6.0@aar"
-      jars="C:\Users\ankit\.gradle\caches\transforms-3\3d2c4646980e639400d3d9460b902877\transformed\jetified-core-ktx-1.6.0\jars\classes.jar"
-      resolved="androidx.core:core-ktx:1.6.0"
-      folder="C:\Users\ankit\.gradle\caches\transforms-3\3d2c4646980e639400d3d9460b902877\transformed\jetified-core-ktx-1.6.0"
+      name="androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar"
+      jars="C:\Users\ankit\.gradle\caches\transforms-3\088f813046d1b0cdd1267d207854bd15\transformed\coordinatorlayout-1.1.0\jars\classes.jar"
+      resolved="androidx.coordinatorlayout:coordinatorlayout:1.1.0"
+      folder="C:\Users\ankit\.gradle\caches\transforms-3\088f813046d1b0cdd1267d207854bd15\transformed\coordinatorlayout-1.1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -804,10 +778,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar"
-      jars="C:\Users\ankit\.gradle\caches\transforms-3\088f813046d1b0cdd1267d207854bd15\transformed\coordinatorlayout-1.1.0\jars\classes.jar"
-      resolved="androidx.coordinatorlayout:coordinatorlayout:1.1.0"
-      folder="C:\Users\ankit\.gradle\caches\transforms-3\088f813046d1b0cdd1267d207854bd15\transformed\coordinatorlayout-1.1.0"
+      name="androidx.core:core-ktx:1.5.0@aar"
+      jars="C:\Users\ankit\.gradle\caches\transforms-3\8dddbd5996af305433d5aa0dc6d28601\transformed\jetified-core-ktx-1.5.0\jars\classes.jar"
+      resolved="androidx.core:core-ktx:1.5.0"
+      folder="C:\Users\ankit\.gradle\caches\transforms-3\8dddbd5996af305433d5aa0dc6d28601\transformed\jetified-core-ktx-1.5.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
