@@ -926,6 +926,19 @@ library {
 }
 library {
   maven_library {
+    groupId: "androidx.core"
+    artifactId: "core-ktx"
+    version: "1.6.0"
+  }
+  digests {
+    sha256: "q\357\002\316\347\353\241\351\005\247\363\1771;P\272\212;\356\016\305\232\017\207mZx\206\016\035\351c"
+  }
+  repo_index {
+    value: 2
+  }
+}
+library {
+  maven_library {
     groupId: "androidx.coordinatorlayout"
     artifactId: "coordinatorlayout"
     version: "1.1.0"
@@ -997,19 +1010,6 @@ library {
   }
   digests {
     sha256: "\351\\\0001\324\314$|\324\201\226\306(~X\322\316\345M\234y\270Z\376\247\311\t 3\002u\257"
-  }
-  repo_index {
-    value: 2
-  }
-}
-library {
-  maven_library {
-    groupId: "androidx.core"
-    artifactId: "core-ktx"
-    version: "1.5.0"
-  }
-  digests {
-    sha256: "Yd\317\347\244\210-\242\240\017\266\312=:\a-\004\023\222\b\030o{\304\263\313f\002\'d\374B"
   }
   repo_index {
     value: 2
@@ -1402,68 +1402,68 @@ library_dependencies {
 }
 library_dependencies {
   library_index: 71
+  library_dep_index: 62
   library_dep_index: 3
   library_dep_index: 4
-  library_dep_index: 26
-  library_dep_index: 2
 }
 library_dependencies {
   library_index: 72
   library_dep_index: 3
-  library_dep_index: 16
-  library_dep_index: 73
-  library_dep_index: 71
   library_dep_index: 4
-  library_dep_index: 24
-  library_dep_index: 6
-  library_dep_index: 74
-  library_dep_index: 75
-  library_dep_index: 13
-  library_dep_index: 76
+  library_dep_index: 26
+  library_dep_index: 2
 }
 library_dependencies {
   library_index: 73
   library_dep_index: 3
+  library_dep_index: 16
+  library_dep_index: 74
+  library_dep_index: 72
+  library_dep_index: 4
+  library_dep_index: 24
+  library_dep_index: 6
+  library_dep_index: 75
+  library_dep_index: 76
+  library_dep_index: 13
+  library_dep_index: 77
 }
 library_dependencies {
   library_index: 74
   library_dep_index: 3
-  library_dep_index: 4
-  library_dep_index: 26
-  library_dep_index: 2
 }
 library_dependencies {
   library_index: 75
   library_dep_index: 3
   library_dep_index: 4
+  library_dep_index: 26
   library_dep_index: 2
 }
 library_dependencies {
   library_index: 76
   library_dep_index: 3
-  library_dep_index: 24
-  library_dep_index: 74
   library_dep_index: 4
   library_dep_index: 2
 }
 library_dependencies {
   library_index: 77
-  library_dep_index: 62
   library_dep_index: 3
+  library_dep_index: 24
+  library_dep_index: 75
   library_dep_index: 4
+  library_dep_index: 2
 }
 module_dependencies {
   module_name: "base"
   dependency_index: 0
   dependency_index: 36
   dependency_index: 70
+  dependency_index: 16
+  dependency_index: 71
   dependency_index: 62
   dependency_index: 67
-  dependency_index: 16
   dependency_index: 24
-  dependency_index: 71
   dependency_index: 72
-  dependency_index: 77
+  dependency_index: 73
 }
 repositories {
   maven_repo {
