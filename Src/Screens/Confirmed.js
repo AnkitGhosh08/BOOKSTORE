@@ -17,7 +17,7 @@ const Confirmed = ({navigation}) => {
           <Ionicons name="book" size={20} color="white" />
         </View>
         <View>
-          <Text style={styles.Text}>Bookstore</Text>
+          {/* <Text style={styles.Text}>Bookstore</Text> */}
         </View>
 
         <View style={{width: '50%'}}>
